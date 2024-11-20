@@ -1,0 +1,14 @@
+a{
+    border: 2px solid;
+}
+h1{
+    margin: 100;
+    border: 4px dotted;
+    border-color: yellow;
+}
+body{
+    background-color:green ;
+}
+p{
+    font-style: algerian;
+}
